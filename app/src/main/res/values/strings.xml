@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Individual11M4</string>
+    <string name="bt1">Apagar modo avión</string>
+    <string name="bt2">Imagen guardada en galería</string>
+    <string name="bt3">Nivel 4 completado</string>
+    <string name="bt4">Actualizando perfil</string>
+    <string name="bt5">Nivel 5 desbloqueado</string>
+    <string name="bt6">Música pausada</string>
+
+</resources>
